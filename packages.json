@@ -5,7 +5,6 @@
     }
 	{
 	    "package": "crawl",
-	    "url": "https://github.com/nmml/crawl",
-	    "branch" : "devel"
+	    "url": "https://github.com/NMML/crawl"
 	}
 ]
