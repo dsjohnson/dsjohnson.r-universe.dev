@@ -2,7 +2,7 @@
     {
         "package": "stocc",
         "url": "https://github.com/dsjohnson/stocc"
-    }
+    },
 	{
 	    "package": "crawl",
 	    "url": "https://github.com/NMML/crawl"
