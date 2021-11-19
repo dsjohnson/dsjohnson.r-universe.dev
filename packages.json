@@ -10,5 +10,25 @@
     {
         "package": "spExpM",
 	"url": "https://github.com/dsjohnson/spExpM"
+    },
+    {
+        "package": "agTred.ssl",
+	"url": "https://github.com/dsjohnson/agTred.ssl"
+    },
+    {
+        "package": "cmpR",
+	"url": "https://github.com/dsjohnson/cmpR"
+    },
+    {
+        "package": "mbpp",
+	"url": "https://github.com/dsjohnson/mbpp"
+    },
+    {
+        "package": "multAbund",
+	"url": "https://github.com/dsjohnson/multAbund"
+    },
+    {
+        "package": "pupR",
+	"url": "https://github.com/dsjohnson/pupR"
     }
 ]
