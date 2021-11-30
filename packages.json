@@ -5,7 +5,8 @@
     },
     {
 	"package": "crawl",
-	"url": "https://github.com/NMML/crawl"
+	"url": "https://github.com/NMML/crawl",
+	"branch" : "devel"
     },
     {
         "package": "spExpM",
