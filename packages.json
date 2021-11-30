@@ -13,7 +13,7 @@
     },
     {
         "package": "agTred.ssl",
-	"url": "https://github.com/dsjohnson/agTred.ssl"
+	"url": "https://github.com/dsjohnson/agTrend.ssl"
     },
     {
         "package": "cmpR",
@@ -30,5 +30,11 @@
     {
         "package": "pupR",
 	"url": "https://github.com/dsjohnson/pupR"
+    },
+    {
+        "package": "markedTMB",
+	"url": "https://github.com/jlaake/markedTMB",
+	"subdir": "markedTMB",
+	"branch" : "devel"
     }
 ]
