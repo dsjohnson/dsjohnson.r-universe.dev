@@ -37,5 +37,9 @@
 	"url": "https://github.com/jlaake/markedTMB",
 	"subdir": "markedTMB",
 	"branch" : "devel"
+    },
+    {
+        "package": "expQ2",
+	"url": "https://github.com/dsjohnson/expQ2"
     }
 ]
