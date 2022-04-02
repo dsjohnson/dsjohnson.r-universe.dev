@@ -42,4 +42,8 @@
         "package": "expQ2",
 	"url": "https://github.com/dsjohnson/expQ2"
     }
+    {
+        "package": "crawlUtils",
+	"url": "https://github.com/dsjohnson/crawlUtils"
+    }
 ]
