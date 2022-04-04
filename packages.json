@@ -9,10 +9,6 @@
 	"branch" : "devel"
     },
     {
-        "package": "spExpM",
-	"url": "https://github.com/dsjohnson/spExpM"
-    },
-    {
         "package": "agTrend.ssl",
 	"url": "https://github.com/dsjohnson/agTrend.ssl"
     },
