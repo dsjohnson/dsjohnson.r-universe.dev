@@ -1,10 +1,6 @@
 [
     {
-        "package": "stocc",
-        "url": "https://github.com/dsjohnson/stocc"
-    },
-    {
-	"package": "crawl",
+	"package": "crawl_devel",
 	"url": "https://github.com/NMML/crawl",
 	"branch" : "devel"
     },
