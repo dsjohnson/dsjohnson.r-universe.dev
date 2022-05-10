@@ -1,6 +1,6 @@
 [
     {
-	"package": "crawl_devel",
+	"package": "crawl",
 	"url": "https://github.com/NMML/crawl",
 	"branch" : "devel"
     },
