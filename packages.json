@@ -1,8 +1,7 @@
 [
     {
 	"package": "crawl",
-	"url": "https://github.com/NMML/crawl",
-	"branch" : "devel"
+	"url": "https://github.com/NMML/crawl"
     },
     {
         "package": "agTrend.ssl",
