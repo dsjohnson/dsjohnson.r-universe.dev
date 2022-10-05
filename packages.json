@@ -45,5 +45,9 @@
     {
         "package": "argosfilter",
 	"url": "https://github.com/dsjohnson/argosfilter"
+    },
+    {
+        "package": "stocc",
+	"url": "https://github.com/dsjohnson/stocc"
     }
 ]
