@@ -50,7 +50,8 @@
 	"url": "https://github.com/dsjohnson/stocc"
     },
     {
-        "package": "moveMMPP",
-	"url": "https://github.com/dsjohnson/moveMMPP"
+        "package": "GPSeqClus",
+	"branch" : "fixes"
     }
+	
 ]
