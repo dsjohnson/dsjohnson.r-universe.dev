@@ -44,10 +44,5 @@
     {
         "package": "stocc",
 	"url": "https://github.com/dsjohnson/stocc"
-    },
-    {
-        "package": "GPSeqClus",
-	"branch" : "fixes"
     }
-	
 ]
