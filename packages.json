@@ -44,9 +44,5 @@
     {
         "package": "stocc",
 	"url": "https://github.com/dsjohnson/stocc"
-    },
-    {
-        "package": "radolc",
-	"url": "https://github.com/sriharikrishna/radolc"
     }
 ]
