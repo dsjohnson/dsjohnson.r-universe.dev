@@ -44,5 +44,9 @@
     {
         "package": "stocc",
 	"url": "https://github.com/dsjohnson/stocc"
+    },
+    {
+        "package": "ctmmUtils",
+	"url": "https://github.com/dsjohnson/ctmmUtils"
     }
 ]
