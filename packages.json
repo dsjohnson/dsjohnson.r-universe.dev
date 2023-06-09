@@ -38,10 +38,6 @@
 	"url": "https://github.com/dsjohnson/crawlUtils"
     },
     {
-        "package": "walk",
-	"url": "https://github.com/dsjohnson/walk"
-    },
-    {
         "package": "stocc",
 	"url": "https://github.com/dsjohnson/stocc"
     },
