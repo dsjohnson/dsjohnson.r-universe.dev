@@ -27,7 +27,7 @@
         "package": "markedTMB",
 	"url": "https://github.com/jlaake/markedTMB",
 	"subdir": "markedTMB",
-	"branch" : "devel"
+	"branch" : "master"
     },
     {
         "package": "expQ2",
