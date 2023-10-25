@@ -44,5 +44,9 @@
     {
         "package": "ctmmUtils",
 	"url": "https://github.com/dsjohnson/ctmmUtils"
+    },
+    {
+        "package": "moveMMPP",
+	"url": "https://github.com/dsjohnson/moveMMPP"
     }
 ]
