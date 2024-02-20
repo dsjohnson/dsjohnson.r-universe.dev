@@ -30,6 +30,12 @@
 	"branch" : "master"
     },
     {
+        "package": "marked",
+	"url": "https://github.com/jlaake/marked",
+	"subdir": "marked",
+	"branch" : "devel"
+    },
+    {
         "package": "expQ2",
 	"url": "https://github.com/dsjohnson/expQ2"
     },
