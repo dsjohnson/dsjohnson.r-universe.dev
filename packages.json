@@ -54,9 +54,5 @@
     {
         "package": "moveMMPP",
 	"url": "https://github.com/dsjohnson/moveMMPP"
-    },
-    {
-        "package": "picMaps",
-        "url": "https://github.com/PIFSC-Protected-Species-Division/picMaps"
     }
 ]
