@@ -62,5 +62,9 @@
     {
         "package": "dsmextraLite",
 	"url": "https://github.com/dsjohnson/dsmextraLite"
+    },
+    {
+        "package": "nimbleJSextras",
+	"url": "https://github.com/dsjohnson/nimbleJSextras"
     }
 ]
