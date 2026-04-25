@@ -66,5 +66,9 @@
     {
         "package": "nimbleJSextras",
 	"url": "https://github.com/dsjohnson/nimbleJSextras"
+    },
+	{
+        "package": "distanceMCMC",
+	"url": "https://github.com/dsjohnson/distanceMCMC"
     }
 ]
