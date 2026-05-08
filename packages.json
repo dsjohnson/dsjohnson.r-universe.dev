@@ -70,5 +70,9 @@
 	{
         "package": "distanceMCMC",
 	"url": "https://github.com/dsjohnson/distanceMCMC"
+    },
+	{
+        "package": "dmnormLR",
+	"url": "https://github.com/dsjohnson/dmnormLR"
     }
 ]
