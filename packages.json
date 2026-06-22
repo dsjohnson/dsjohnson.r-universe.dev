@@ -74,5 +74,9 @@
 	{
         "package": "dmnormLR",
 	"url": "https://github.com/dsjohnson/dmnormLR"
+    },
+	{
+        "package": "expmAction",
+	"url": "https://github.com/dsjohnson/expmAction"
     }
 ]
