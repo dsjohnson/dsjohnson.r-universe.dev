@@ -4,79 +4,79 @@
 	"url": "https://github.com/NMML/crawl"
     },
     {
-        "package": "agTrend.ssl",
+    "package": "agTrend.ssl",
 	"url": "https://github.com/dsjohnson/agTrend.ssl"
     },
     {
-        "package": "cmpR",
+    "package": "cmpR",
 	"url": "https://github.com/dsjohnson/cmpR"
     },
     {
-        "package": "mbpp",
+    "package": "mbpp",
 	"url": "https://github.com/dsjohnson/mbpp"
     },
     {
-        "package": "multAbund",
+    "package": "multAbund",
 	"url": "https://github.com/dsjohnson/multAbund"
     },
     {
-        "package": "pupR",
+    "package": "pupR",
 	"url": "https://github.com/dsjohnson/pupR"
     },
     {
-        "package": "markedTMB",
+    "package": "markedTMB",
 	"url": "https://github.com/jlaake/markedTMB",
 	"subdir": "markedTMB",
 	"branch" : "master"
     },
     {
-        "package": "marked",
+    "package": "marked",
 	"url": "https://github.com/jlaake/marked",
 	"subdir": "marked",
 	"branch" : "devel"
     },
     {
-        "package": "expQ2",
+    "package": "expQ2",
 	"url": "https://github.com/dsjohnson/expQ2"
     },
     {
-        "package": "crawlUtils",
+    "package": "crawlUtils",
 	"url": "https://github.com/dsjohnson/crawlUtils"
     },
     {
-        "package": "stocc",
+    "package": "stocc",
 	"url": "https://github.com/dsjohnson/stocc"
     },
     {
-        "package": "ctmmUtils",
+    "package": "ctmmUtils",
 	"url": "https://github.com/dsjohnson/ctmmUtils"
     },
     {
-        "package": "moveMMPP",
+    "package": "moveMMPP",
 	"url": "https://github.com/dsjohnson/moveMMPP"
     },
     {
-        "package": "walk",
+    "package": "walk",
 	"url": "https://github.com/dsjohnson/walk"
     },
     {
-        "package": "dsmextraLite",
+    "package": "dsmextraLite",
 	"url": "https://github.com/dsjohnson/dsmextraLite"
     },
     {
-        "package": "nimbleJSextras",
+    "package": "nimbleJSextras",
 	"url": "https://github.com/dsjohnson/nimbleJSextras"
     },
 	{
-        "package": "distanceMCMC",
+    "package": "distanceMCMC",
 	"url": "https://github.com/dsjohnson/distanceMCMC"
     },
 	{
-        "package": "dmnormLR",
+    "package": "dmnormLR",
 	"url": "https://github.com/dsjohnson/dmnormLR"
     },
 	{
-        "package": "expmAction",
+    "package": "expmAction",
 	"url": "https://github.com/dsjohnson/expmAction"
     }
 ]
