@@ -57,6 +57,7 @@
     },
     {
     "package": "walk",
+	"subdir": "walk",
 	"url": "https://github.com/dsjohnson/walk"
     },
     {
